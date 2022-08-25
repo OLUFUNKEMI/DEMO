@@ -2,4 +2,4 @@
 
 My first respository on Github
 
-I love to 🍓 ☕ 🎸.
+I love 🍓 ☕ 🎸.
